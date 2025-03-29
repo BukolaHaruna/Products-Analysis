@@ -1,4 +1,4 @@
-# Products-Analysis
+# Products Analysis
 
 This Excel project explores product sales and profitability across multiple regions and years, with the ability to filter by sales channel (online vs. offline). 
 
